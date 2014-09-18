@@ -1,0 +1,29 @@
+{
+  "name": "maki-assets",
+  "version": "0.0.0",
+  "description": "expose assets to applications [express, maki...]",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-assets.git"
+  },
+  "keywords": [
+    "maki",
+    "framework",
+    "css",
+    "less",
+    "jade"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-assets/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-assets",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
